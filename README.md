@@ -2,9 +2,10 @@
 Encryption of words and numbers with Python
 Hello, thank you for choosing us
 This library is for small word encryption.
-If you're looking for fast and scalable cryptography up to high sentence counts, check out the RRZ library on my GitHub page.
-https://github.com/whm-h
+If you're looking for fast and scalable cryptography up to high sentence counts, check out the Bynerlock library on my GitHub page.
+https://github.com/whm-h/Bynerlock
 
+But if you want special encryption, this library is suitable for you
 
 # Lock file
 To encrypt, you must use the following command
